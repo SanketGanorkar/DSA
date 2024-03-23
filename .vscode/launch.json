@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSA/Heap/Questions",
-      "program": "d:/DSA/Heap/Questions/build/Debug/outDebug",
+      "cwd": "d:/DSA/Heap/.vscode",
+      "program": "d:/DSA/Heap/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
